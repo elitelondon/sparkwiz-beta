@@ -2,7 +2,7 @@ id=""
 version=""
 zip=""
 
-name="Spark Main (Stable)"
+name="1"
 version="1.6"
 url="https://www.dropbox.com/s/sf63be4etbz5r7y/sparkbuildv1.6.zip?dl=1"
 minor="http://"
