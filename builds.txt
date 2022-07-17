@@ -3,7 +3,7 @@ version=""
 zip=""
 
 name="1"
-version="1.6"
+version="1.7"
 url="https://www.dropbox.com/s/sf63be4etbz5r7y/sparkbuildv1.6.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/tnmhwf6jukntzv8/sparkbuildv1.6_guisettings.zip?dl=1"
