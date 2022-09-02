@@ -4,7 +4,7 @@ zip=""
 
 name="1"
 version="2.2"
-url="https://www.dropbox.com/s/0syc71f7w4jqgq5/NewMediaCentre.zip?dl=1"
+url="https://www.dropbox.com/s/d2c0eheba79sazj/EminenceTheme1.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/b6zafker1aaqxe5/NewMediaCentre_guisettings.zip?dl=1"
 kodi="19.0"
