@@ -3,7 +3,7 @@ version=""
 zip=""
 
 name="1"
-version="2.2"
+version="2.3"
 url="https://www.dropbox.com/s/d2c0eheba79sazj/EminenceTheme1.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/b6zafker1aaqxe5/NewMediaCentre_guisettings.zip?dl=1"
